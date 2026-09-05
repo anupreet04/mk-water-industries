@@ -172,7 +172,7 @@ export default function Hero() {
               >
                 <div className="relative w-64 h-80">
                   <Image
-                    src="/assets/images/products/WhatsApp_Image_2026-07-31_at_19.54.23.jpeg"
+                    src="/assets/images/home/homepage-water.PNG"
                     alt="MK Water Industries Premium Bottled Water"
                     fill
                     className="object-contain drop-shadow-2xl"
